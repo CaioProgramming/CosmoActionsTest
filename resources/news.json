@@ -88,6 +88,35 @@
             "reference": {
                 "author": "Space Today"
             }
+        },
+        {
+            "id": "",
+            "pages": [
+                {
+                    "title": "",
+                    "description": "\n\nOs meteorologistas em breve poderão ver um mapeamento em tempo real da atividade de raios na Terra e monitorar de perto as tempestades solares, graças a um novo satélite meteorológico.\r\n\r\nEm conjunto, a Nasa e a Administração Nacional Oceânica e Atmosférica (NOAA, na sigla em inglês) lançaram o GOES-U, ou a missão do Satélite Ambiental Operacional Geoestacionário U, na terça-feira (25).\r\n\r\nO satélite meteorológico decolou a bordo do foguete SpaceX Falcon Heavy do Centro Espacial Kennedy, na Flórida, às 17h26 do horário local. O lançamento foi transmitido ao vivo no site da Nasa.\r\n\r\nAs condições meteorológicas na Flórida estavam 60% favoráveis no início da janela de lançamento.\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\nO GOES-U é o quarto e último satélite da série R dos Satélites Ambientais Operacionais Geoestacionários, “o sistema de observação de tempo e monitoramento ambiental mais sofisticado do Hemisfério Ocidental”, segundo a NOAA.\r\n\r\n“A série GOES-R de satélites tem sido um divisor de águas para nós”, disse Ken Graham, diretor do Serviço Nacional de Meteorologia da NOAA, durante uma coletiva de imprensa na segunda-feira (24). “Desde o primeiro lançamento da série em 2016, a geração mais recente de GOES possibilitou novos e melhores serviços de previsão e alerta para ajudar a salvar vidas e proteger propriedades.”\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\nAssim que o GOES-U alcançar uma órbita geoestacionária, ou seja, uma órbita circular acima do equador da Terra, o satélite será renomeado para GOES-19, ou GOES Leste. O satélite substituirá o GOES-16, o antigo satélite GOES Leste lançado em 2016, e trabalhará em conjunto com o GOES-18, também conhecido como GOES Oeste. Enquanto isso, o satélite GOES-16 essencialmente se tornará um “estepe” para o sistema, em órbita caso um dos satélites falhe.\r\n\r\nJuntos, os satélites GOES-18 e GOES-19 coletarão dados atmosféricos, solares, climáticos e oceânicos e cobrirão mais da metade do globo, desde a costa oeste da África até a Nova Zelândia.\r\n\r\nO que distingue o GOES-U dos outros satélites é que ele está equipado com uma nova capacidade para monitorar o clima espacial.\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\nÀ medida que o Sol se aproxima do máximo solar – o pico de seu ciclo de 11 anos, esperado para acontecer neste ano – ele se torna mais ativo. Pesquisadores têm observado fulgurações solares cada vez mais intensas e ejeções de massa coronal eruptivas da superfície do Sol.\r\n\r\nAs ejeções de massa coronal são grandes nuvens de gás ionizado chamado plasma e campos magnéticos que se libertam da atmosfera externa do sol.\r\n\r\nQuando essas erupções são direcionadas para a Terra, elas podem causar tempestades geomagnéticas, ou grandes perturbações no campo magnético da Terra. Com esses eventos, há sempre o risco de que comunicações, a rede elétrica, navegação e operações de rádio e satélite sejam afetadas.\r\n\r\nA tempestade solar mais intensa que já afetou a Terra em 20 anos ocorreu em 10 de maio, mas felizmente apenas trouxe auroras boreais para o céu de estados e países que nunca veem as luzes do norte em condições normais.\r\n\r\nA atividade solar aumentada causa auroras que dançam ao redor dos polos da Terra, conhecidas como luzes do norte (ou aurora boreal) e luzes do sul (ou aurora austral). Quando partículas energizadas de ejeções de massa coronal alcançam o campo magnético da Terra, elas interagem com gases na atmosfera para criar luzes coloridas no céu.\n\n",
+                    "thumbnailURL": ""
+                }
+            ],
+            "reference": {
+                "author": "\n\nAshley Strickland\n\n",
+                "reference": "\n\nhttps://www.cnnbrasil.com.br/tecnologia/novo-satelite-da-nasa-e-lancado-para-monitorar-tempestades-solares/\n\n"
+            }
         }
     ]
 }
