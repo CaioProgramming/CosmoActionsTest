@@ -88,6 +88,35 @@
             "reference": {
                 "author": "Space Today"
             }
+        },
+        {
+            "id": "12",
+            "pages": [
+                {
+                    "title": "Exoplaneta gelado pode conter atmosfera e oceano líquido",
+                    "description": "\n\nUma equipe de astrônomos deu um passo adiante em nossa busca por planetas contendo água líquida fora do Sistema Solar. O exoplaneta LHS 1140 b parece ser um mundo completamente coberto de gelo e pode abrigar uma atmosfera e até mesmo um oceano líquido.\r\n\r\nDescoberto pela primeira vez em 2017, o LHS 1140 b fica na zona habitável de sua estrela e até então parecia ser um planeta essencialmente gasoso, mas dados do Telescópio Espacial James Webb coletados em dezembro de 2023, comparados com dados anteriores de outros telescópios espaciais como Spitzer, Hubble e TESS, mudaram essa perspectiva.\r\n\r\nOs cientistas, liderados pela Universidade de Montreal, acreditam que este exoplaneta pode ser um mundo completamente coberto de gelo, com a possibilidade de conter até mesmo um oceano líquido sob uma atmosfera nublada.\r\n\r\nEstes indícios tornam o LHS 1140 b um dos planetas mais promissores como potencial mundo habitável. O estudo foi aprovado para publicação no The Astrophysical Journal Letters.\n\n",
+                    "thumbnailURL": "\n\nhttps://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/07/exoplaneta-agua.jpg?w=700&h=394&crop=1&quality=50\n\n"
+                },
+                {
+                    "title": "",
+                    "description": "\n\nZona habitável\r\n\r\nO LHS 1140 b [orbita uma estrela anã vermelha](https://www.cnnbrasil.com.br/tecnologia/astronomos-descobrem-sistema-solar-com-sincronia-impressionante/) de baixa massa, com aproximadamente um quinto do tamanho do Sol, e fica localizado a cerca de 48 anos-luz da Terra na constelação de Cetus.\r\n\r\nUm vídeo divulgado pelo Observatório do Sul da Europa (ESO, na sigla em inglês) em 2017, após a descoberta do exoplaneta, mostra uma simulação artística de uma viagem imaginária partindo da Terra até o LHS 1140 b. Confira:\r\n\r\nSua descoberta já havia chamado a atenção dos astrônomos por ser um dos exoplanetas ([planetas fora do nosso Sistema Solar](https://www.cnnbrasil.com.br/tecnologia/catalogo-reune-planetas-mais-esquisitos-de-fora-do-sistema-solar/)) mais próximos da Terra que fica dentro da zona habitável de sua estrela. Ou seja, ele fica a uma distância que possibilita a temperatura para existência de água na forma líquida.\r\n\r\nO LHS 1140 b tem 1,7 vezes o tamanho da Terra e 5,6 vezes sua massa. Os novos dados sugerem que o exoplaneta pode ser considerado uma super-Terra (um planeta rochoso, com massa maior do que a Terra), ao invés de um mini-Netuno (um planeta gasoso com uma atmosfera espessa e rica em hidrogênio pouco menor que Netuno), conforme parecia ser inicialmente.\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\nEmbora os cientistas ainda não tenham conseguido confirmar essas suspeitas, a presença de uma atmosfera rica em nitrogênio sugere que o LHS 1140 b teria as condições necessárias para a existência de água líquida.\r\n\r\nSegundo os modelos estimados, caso esse seja realmente o caso, o planeta se assemelharia a um globo ocular — uma bola de neve com um oceano em um dos lados com o formato de uma “íris”. A temperatura nesse oceano poderia chegar até confortáveis 20°C.\r\n\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\nPara conseguir [comprovar suas hipóteses](https://www.cnnbrasil.com.br/tecnologia/cientistas-desvendam-o-que-acontece-dentro-de-borboleta-cosmica-gigante/), no entanto, os astrônomos ainda têm vários anos pela frente.\r\n\r\n“A sugestão atual de uma atmosfera rica em nitrogênio implora por confirmação com mais dados. Precisamos de pelo menos mais um ano de observações para confirmar que o LHS 1140 b tem uma atmosfera, e provavelmente mais dois ou três para detectar dióxido de carbono”, explicou René Doyon, professor da Universidade de Montreal que supervisionou o estudo.\n\n",
+                    "thumbnailURL": ""
+                }
+            ],
+            "reference": {
+                "author": "\n\nFernanda Pinotti\n\n",
+                "reference": "\n\nhttps://www.cnnbrasil.com.br/tecnologia/exoplaneta-gelado-pode-conter-atmosfera-e-oceano-liquido-mostra-estudo/\n\n"
+            }
         }
     ]
 }
