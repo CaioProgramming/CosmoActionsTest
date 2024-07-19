@@ -88,6 +88,35 @@
             "reference": {
                 "author": "Space Today"
             }
+        },
+        {
+            "id": "7",
+            "pages": [
+                {
+                    "title": "Test News",
+                    "description": "\n\npage 1 testing\n\n",
+                    "thumbnailURL": "\n\nwww.thumb.com\n\n"
+                },
+                {
+                    "title": "",
+                    "description": "\n\nPage 2 testing\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\npage 3 testing\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\npage 4 testing\n\n",
+                    "thumbnailURL": ""
+                }
+            ],
+            "reference": {
+                "author": "\n\nMe\n\n",
+                "reference": "\n\nwww.test.com\n\n"
+            }
         }
     ]
 }
