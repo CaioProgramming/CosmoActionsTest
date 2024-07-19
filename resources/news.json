@@ -88,6 +88,35 @@
             "reference": {
                 "author": "Space Today"
             }
+        },
+        {
+            "id": "6",
+            "pages": [
+                {
+                    "title": "Telescópio Webb revela clima extremamente quente em anãs marrons cósmicas",
+                    "description": "\r\n\r\nO primeiro relatório meteorológico de duas anãs marrons – corpos celestes maiores do que planetas, mas menores do que estrelas – mais próximas a nós acaba de ser produzido.\r\n\r\nO clima lá é inclemente, para dizer o mínimo: incrivelmente quente, com um coquetel tóxico vagando pela atmosfera e com nuvens de partículas de silicato próximas a tempestades de areia do Saara.\r\n\r\nPesquisadores usaram os registros do telescópio espacial James Webb para realizar uma pesquisa detalhada das condições atmosféricas nas anãs marrons, especificamente um par que orbita a cerca de seis anos-luz da Terra, medida considerada próxima em escala cósmica. Um ano-luz é a distância que a luz leva para viajar em um ano, ou seja, 9,5 trilhões de quilômetros.\r\n\r\n",
+                    "thumbnailURL": "\r\n\r\nhttps://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/07/ana-marrom-mais-proxima-da-terra-eso.jpg?w=1200&h=674&crop=1&quality=50\r\n\r\n"
+                },
+                {
+                    "title": "",
+                    "description": "\r\n\r\nAs informações coletadas pelo Webb fornecem uma visão tridimensional de como o clima muda durante a rotação da anã marrom – a maior das duas levando sete horas e a menor, cinco – com múltiplas camadas de nuvens encontradas em diferentes profundidades atmosféricas.\r\n\r\nAs atmosferas das duas anãs marrons são dominadas por hidrogênio e hélio, com pequenas quantidades de vapor de água, metano e monóxido de carbono. A temperatura nas suas nuvens chega ao máximo a 925 ºC, valor similar a uma chama de vela comum.\r\n\r\n“Neste estudo, criamos o mapa meteorológico mais detalhado de qualquer anã marrom já visto”, disse a astrônoma Beth Biller, do Insituto de Astronomia da Universidade de Edimburgo, autora principal do estudo publicado na segunda-feira (15)  no jornal acadêmico Monthly Notices, da Sociedade Real de Astronomia.\r\n\r\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\r\n\r\nAnãs marrons não são nem estrela, nem planeta, mas algo intermediário. Elas emitem a sua própria luz graças ao tamanho calor que possuem, “exatamente como é possível ver um carvão avermelhado por conta de quão quente está”, disse Biller. É esta luz que os pesquisadores investigaram com o Webb. Ao contrário das estrelas, as anãs marrons não têm fusão nuclear em seus núcleos.\r\n\r\n“Como planetas, mas ao contrário das estrelas, as anãs marrons também possuem nuvens que são feitas de precipitados em suas atmosferas. Ocorre que, ainda que existam nuvens de água na terra, as nuvens das anãs marrons são muito mais quentes e provavelmente feitas de partículas de silicato quentes, algo como uma tempestade de areia muito quente do Saara”, disse Biller.\r\n\r\nO atual consenso científico é que as anãs marrons se formaram de grandes nuvens de gás e poeira como as estrelas, mas não possuem massa suficiente para ter fusão nuclear. A sua composição é parecida com planetas gigantescos de gás como Júpiter, o maior do nosso sistema solar. A sua massa é até 80 vezes maior do que a de Júpiter. Só para comparação, a massa do sol é cerca de 1 mil vezes maior do que a de Júpiter.\r\n\r\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\r\n\r\nAs duas anãs marrons analisadas pelo Webb se formaram cerca de 500 milhões de anos atrás. Cada uma delas têm o diâmetro comparável com o de Júpiter, mas uma é 35 vezes maior do que Júpiter e a outra é 30 vezes maior.\r\n\r\nAnãs marrons são relativamente comuns. Cerca de mil são conhecidas, ante mais de 5 mil exoplanetas. O Webb examina o cosmo prioritariamente utilizando infravermelho, enquanto o telescópio Hubble, seu predecessor, fazia análise de ondas óticas e ultravioletas.\r\n\r\n",
+                    "thumbnailURL": ""
+                }
+            ],
+            "reference": {
+                "author": "\r\n\r\nWill Dunham\r\n\r\n",
+                "reference": "\r\n\r\nhttps://www.cnnbrasil.com.br/tecnologia/telescopio-webb-revela-clima-extremamente-quente-em-anas-marrons-cosmicas/\r\n\r\n"
+            }
         }
     ]
 }
