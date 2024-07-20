@@ -88,6 +88,35 @@
             "reference": {
                 "author": "Space Today"
             }
+        },
+        {
+            "id": "22",
+            "pages": [
+                {
+                    "title": "Astrônomos detectam maior buraco negro estelar da Via Láctea",
+                    "description": "\n\nLocalizado a cerca de 2.000 anos-luz da Terra, Gaia BH3, ou simplesmente BH3, é um buraco negro que merece destaque em meio às maravilhas celestes da Via Láctea. O que o torna notável é seu tamanho extraordinário: ele é o maior buraco negro estelar da galáxia, com uma massa 33 vezes maior que a do Sol.\r\n\r\n\n\n",
+                    "thumbnailURL": "\n\nhttps://veja.abril.com.br/wp-content/uploads/2024/04/eso2408a.jpg?quality=90&strip=info&w=1280&h=720&crop=1\n\n"
+                },
+                {
+                    "title": "",
+                    "description": "\n\nÉ importante esclarecer que, embora impressionante, o Gaia BH3 não é o maior buraco negro da Via Láctea. Este título pertence a Sagitário A*, que é um buraco negro supermassivo com uma massa quatro milhões de vezes maior que a do Sol. No entanto, o BH3 é o maior buraco negro formado a partir do colapso de uma estrela, conhecido como buraco negro estelar.\r\n\r\nSua magnitude não passa despercebida, especialmente considerando que os buracos negros estelares previamente identificados tendem a ter cerca de dez vezes a massa do Sol, em média. Para colocar em perspectiva, o segundo maior buraco negro conhecido, Cygnus X-1, tem aproximadamente 21 vezes a massa solar, o que é significativamente menor do que o BH3.\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\nAs proporções surpreenderam até mesmo os astrônomos envolvidos no projeto. “É o tipo de descoberta que se faz uma vez na vida de pesquisa”, disse em nota Pasquale Panuzzo, astrônomo do Centro Nacional de Pesquisa Científica do Observatório de Paris e colaborador na Missão Gaia. Além de ser o maior buraco negro estelar, ele também é o segundo mais próximo da Terra.\r\n\r\nPara confirmar a sua descoberta, a colaboração Gaia utilizou dados de observatórios terrestres, incluindo do instrumento Ultraviolet and Visual Echelle Spectrograph (UVES), localizado no deserto chileno do Atacama. Estas observações revelaram propriedades chave de uma estrela companheira do BH3, que, juntamente com os dados de Gaia, permitiram aos astrônomos medir com precisão a massa do buraco negro.\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\nPara confirmar a sua descoberta, a colaboração Gaia utilizou dados de observatórios terrestres, incluindo do instrumento Ultraviolet and Visual Echelle Spectrograph (UVES), localizado no deserto chileno do Atacama. Estas observações revelaram propriedades chave de uma estrela companheira do BH3, que, juntamente com os dados de Gaia, permitiram aos astrônomos medir com precisão a massa do buraco negro.\r\n\r\nOs pesquisadores encontraram corpos celestes de massa semelhante fora da nossa galáxia e teorizaram que eles podem se formar a partir do colapso de estrelas com muito poucos elementos mais pesados ​​que o hidrogênio e o hélio em sua composição química. Pensa-se que estas chamadas estrelas pobres em metais perdem menos massa ao longo das suas vidas e, portanto, têm mais material sobrando para produzir buracos negros gigantes após a sua morte. Mas faltavam até agora evidências que ligassem diretamente estrelas pobres em metais a buracos negros de grande massa.\n\n",
+                    "thumbnailURL": ""
+                }
+            ],
+            "reference": {
+                "author": "\n\n Marília Monitchele\n\n",
+                "reference": "\n\nhttps://veja.abril.com.br/brasil/astronomos-detectam-maior-buraco-negro-estelar-da-via-lactea/\n\n"
+            }
         }
     ]
 }
