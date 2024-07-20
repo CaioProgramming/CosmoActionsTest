@@ -88,6 +88,35 @@
             "reference": {
                 "author": "Space Today"
             }
+        },
+        {
+            "id": "27",
+            "pages": [
+                {
+                    "title": "No deserto do Atacama, Chile terá maior câmera astronômica do mundo",
+                    "description": "\n\nEquipamento será parte do Observatório Rubin, que tem como objetivo explorar a natureza da energia escura e da matéria escura no universo.\n\n",
+                    "thumbnailURL": "\n\nhttps://veja.abril.com.br/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-05-at-15.00.56.jpeg?quality=90&strip=info&w=700&h=525&crop=1\n\n"
+                },
+                {
+                    "title": "",
+                    "description": "\n\nA maior câmara digital para astronomia do mundo teve sua construção concluída e será instalada ainda neste ano no deserto do Atacama, no Chile. Com uma resolução acima de 3,2 gigapixels, o equipamento pesa quase três toneladas.\r\n\r\nO Observatório Vera C. Rubin é um sistema complexo capaz de mapear todo o céu visível e composto por um telescópio terrestre de campo amplo de 8,4 metros, pela câmera e por um sistema automático de processamento de dados. As peças necessárias para a sua construção precisaram ser transportadas em diversos veículos até chegarem na montanha do Cerro Pachón, nos limites do deserto do Atacama. \n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\n“Tudo o que precisávamos para as operações [está] agora no cume e pronto para verificação e, esperançosamente, para instalação um pouco mais tarde este ano”, disse Stuartt Corder, diretor científico da associação de universidades AURA e vice-diretor do centro NOIRLab, que irá operar o observatório.\r\n\r\n\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\nA construção do observatório tem como objetivo explorar a natureza da energia escura e da matéria escura no universo, que ainda é pouco conhecida, e estudar a possibilidade de asteroides ou estrelas colidirem com a Terra. Ele será responsável por gerar durante uma década 20 terabytes de dados por noite, produzindo um gigantesco banco de informações. \n\n",
+                    "thumbnailURL": ""
+                }
+            ],
+            "reference": {
+                "author": "\n\nVeja\n\n",
+                "reference": "\n\nNo deserto do Atacama, Chile terá maior câmera astronômica do mundo   Leia mais em: https://veja.abril.com.br/mundo/no-deserto-do-atacama-chile-tera-maior-camera-astronomica-do-mundo/\n\n"
+            }
         }
     ]
 }
