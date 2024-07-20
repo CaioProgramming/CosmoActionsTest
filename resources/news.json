@@ -88,6 +88,35 @@
             "reference": {
                 "author": "Space Today"
             }
+        },
+        {
+            "id": "18",
+            "pages": [
+                {
+                    "title": "Testing Action Workflow News",
+                    "description": "\n\npage 1\n\n",
+                    "thumbnailURL": "\n\nhttps://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/07/tita-saturno-nasa.png?w=1220&h=674&crop=1&quality=50\n\n"
+                },
+                {
+                    "title": "",
+                    "description": "\n\npage 2\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\npage 4\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\npage 5\n\n",
+                    "thumbnailURL": ""
+                }
+            ],
+            "reference": {
+                "author": "\n\nme\n\n",
+                "reference": "\n\nok.com\n\n"
+            }
         }
     ]
 }
