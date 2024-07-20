@@ -88,6 +88,35 @@
             "reference": {
                 "author": "Space Today"
             }
+        },
+        {
+            "id": "20",
+            "pages": [
+                {
+                    "title": "Como um buraco negro cresce? Cientistas revelam “ingrediente secreto”",
+                    "description": "\n\nUm vento em espiral ajuda o buraco negro supermassivo da galáxia ESO320-G030 a crescer, auxiliado por campos magnéticos. Nesta ilustração, o núcleo da galáxia é dominado por um vento rotativo de gás denso que sai do buraco negro supermassivo (oculto) bem no centro da galáxia. Os movimentos do gás, traçados pela luz das moléculas de cianeto de hidrogênio, foram medidos com o telescópio ALMA M. D. Gorski/Aaron M. Geller, Northwestern University, CIERA, the Center for Interdisciplinary Exploration an Research in Astrophysics\n\n",
+                    "thumbnailURL": "\n\nhttps://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/06/buraco-negro.jpg?w=1220&h=674&crop=1&quality=50\n\n"
+                },
+                {
+                    "title": "",
+                    "description": "\n\nHá anos, os cientistas tentam entender por que buracos negros supermassivos crescem tanto e a uma velocidade tão rápida. Um grupo de astrônomos parece ter descoberto um dos “ingredientes” que ajudam a tornar os buracos negros tão grandes: vento.\r\n\r\nA equipe de cientistas liderada por Mark Gorski e Susanne Aalto, da Chalmers University of Technology na Suécia, decidiram estudar uma galáxia relativamente próxima da nossa, a ESO320-G030, há cerca de 120 milhões de anos-luz de distância. O[ artigo](https://www.aanda.org/articles/aa/full_html/2024/04/aa48821-23/aa48821-23.html) foi publicado na revista Astronomy & Astrophysics em abril de 2024.\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\nAssim como a maioria das galáxias, incluindo a Via Láctea, ela possui um [buraco negro](https://www.cnnbrasil.com.br/tecnologia/despertar-de-buraco-negro-e-acompanhado-pela-primeira-vez-por-cientistas/) supermassivo no centro. Além disso, também é uma galáxia bem ativa, formando estrelas dez vezes mais rápido que a nossa.\r\n\r\n“Como esta galáxia é muito luminosa no infravermelho, os telescópios podem captar detalhes impressionantes no seu centro. Queríamos medir a luz das moléculas transportadas pelos ventos do núcleo da galáxia, na esperança de traçar como os ventos são lançados por um buraco negro supermassivo em crescimento, ou que em breve estará em crescimento”, disse Susanne Aalto, professora de radioastronomia.\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\nAs imagens captadas pelo telescópio sugerem a existência de uma [corrente de vento magnetizada](https://www.cnnbrasil.com.br/tecnologia/campo-magnetico-em-espiral-e-visto-ao-redor-do-buraco-negro-central-da-via-lactea/) e rotativa que poderia “alimentar” o buraco negro, ajudando em seu crescimento — ao contrário de outros ventos que costumam estar presentes no centro das galáxias empurrando a matéria para longe do buraco negro.\r\n\r\n“Podemos ver como os ventos formam uma estrutura em espiral, saindo do centro da galáxia. Quando medimos a rotação, a massa e a velocidade do material que flui para fora, ficamos surpresos ao descobrir que poderíamos descartar muitas explicações para a força do vento, como a formação de estrelas, por exemplo. Em vez disso, o fluxo para fora pode ser alimentado pela entrada de gás e parece ser mantido unido por campos magnéticos”, acrescentou a astrônoma.\n\n",
+                    "thumbnailURL": ""
+                }
+            ],
+            "reference": {
+                "author": "\n\nFernanda Pinotti\n\n",
+                "reference": "\n\nhttps://www.cnnbrasil.com.br/tecnologia/como-um-buraco-negro-cresce-cientistas-revelam-ingrediente-secreto/\n\n"
+            }
         }
     ]
 }
