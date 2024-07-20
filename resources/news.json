@@ -88,6 +88,35 @@
             "reference": {
                 "author": "Space Today"
             }
+        },
+        {
+            "id": "24",
+            "pages": [
+                {
+                    "title": "Um salto para a humanidade: a nova revolução do James Webb",
+                    "description": "\n\nDois anos após enviar suas primeiras imagens do universo, o telescópio supera as expectativas e começa a impactar o campo da astrofísica\r\n\r\nO lançamento do hoje lendário telescópio Hubble, em abril de 1990, foi um marco para a ciência, mudando a forma de ver e compreender o espaço. Lá no alto, o equipamento conseguia visualizar as estrelas diretamente, sem o véu da atmosfera terrestre — um grande salto na astronomia. Uma vez aberta essa porta para o entendimento do universo, os cientistas se apressaram a ampliar seus horizontes pondo em marcha o projeto de construção do sucessor do Hubble. Com orçamento de 1 bilhão de dólares, engenheiros das agências espaciais americana, europeia e chinesa inicialmente planejaram um supertelescópio com espelho de 10 metros, três vezes mais poderoso, onde embutiriam sensores capazes de captar imagens em meio a raios luminosos infravermelhos e ultravioleta. Demorou quatorze anos e custou dez vezes mais, mas em dezembro de 2021 o telescópio espacial James Webb foi lançado com estardalhaço, um pouco menor (espelho de 6,5 metros) e com sensores mais limitados, mas ainda assim capaz de excepcionais descobertas.\n\n",
+                    "thumbnailURL": "\n\nhttps://veja.abril.com.br/wp-content/uploads/2024/07/2-NASA-ESPACO-TELESCOPIO-ARTE-JAMES-WEBB-d.jpeg.jpg?quality=90&strip=info&w=1024&crop=1\n\n"
+                },
+                {
+                    "title": "",
+                    "description": "\n\nNão decepcionou: imagens recentes captadas por ele estão revolucionando os conceitos sobre os primórdios do universo. “A expectativa era grande, mas mesmo assim nos surpreendemos com o que ele tem revelado”, diz Joris Witstok, cosmólogo da Universidade de Cambridge, na Inglaterra, que participa das pesquisas. “Olhar tão fundo no passado está mostrando que, no início, o universo era bem diferente do que imaginávamos.”\r\n\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\nPor conseguir enxergar um comprimento de onda invisível para os olhos humanos, o James Webb é capaz de captar sinais que viajaram por bilhões de anos. Esse desempenho lhe permitiu quebrar duas vezes, no curto espaço de tempo em que se encontra ativo, o recorde de galáxia mais antiga já avistada, expondo imagens inéditas de aglomerados de estrelas formadas 300 milhões de anos após o Big Bang — praticamente os primeiros segundos de existência de um universo com cerca de 13,8 bilhões de anos. O resultado abalou as estruturas do mundo científico, que supunha que as primeiras galáxias fossem pequenas e opacas, devido à escassez de elementos químicos complexos. As imagens do James Webb revelaram, ao contrário, que esses aglomerados são inesperadamente grandes e brilhantes, o que sugere uma evolução bem diversa das conjecturas até então em vigor.\n\n",
+                    "thumbnailURL": ""
+                },
+                {
+                    "title": "",
+                    "description": "\n\nRevelações sobre os primórdios do universo são o feito de maior impacto até agora entre as muitas descobertas captadas pelo James Webb. Desde as primeiras imagens, enviadas em julho de 2022, o telescópio confirmou o que se previa: que sua trajetória seria um divisor de águas na astrofísica. “Mesmo com parte do espelho danificado por um meteorito, a qualidade da imagem capturada se mostrou muito superior ao esperado”, afirma o astrofísico brasileiro Christopher Willmer, professor da Universidade do Arizona, nos Estados Unidos. Em pleno funcionamento, o telescópio mais poderoso já construído pelo homem, capaz de reproduzir um infinito antes invisível, descortinar planetas em estrelas distantes e revelar segredos dos primórdios do universo, tem suas descobertas esmiuçadas em uma série de estudos publicados nos últimos meses.\n\n",
+                    "thumbnailURL": ""
+                }
+            ],
+            "reference": {
+                "author": "\n\nVEJA\n\n",
+                "reference": "\n\nhttps://veja.abril.com.br/ciencia/um-salto-para-a-humanidade-a-nova-revolucao-do-james-webb/\n\n"
+            }
         }
     ]
 }
